@@ -16,6 +16,7 @@
  * mh_google_cloud_bigquery_ltv_prediction_challenge_EDA.ipynb [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/155Z7TuAi0AmQhRvGyfVtG-Q4ptO2QmiS?usp=sharing)
     #### Basic Exploratory Data Analysis
     #### Packages Used,
+        * google.cloud
         * seaborn
         * Pandas
         * Numpy
